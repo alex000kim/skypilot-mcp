@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "skypilot": {
+      "command": "uvx",
+      "args": ["--from", "git+https://github.com/alex000kim/skypilot-mcp", "skypilot-mcp"]
+    }
+  }
+}
